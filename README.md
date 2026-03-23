@@ -1,4 +1,4 @@
-# 🚀 Habibur Rahman Sajal
+# Habibur Rahman Sajal
 ### Computer Vision & Deep Learning Researcher | AI Engineer
 
 <p align="left">
