@@ -50,14 +50,10 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Sajal's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=tokyonight&border_radius=10" alt="Sajal's GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
@@ -69,8 +65,6 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
     </td>
   </tr>
 </table>
-
----
 
 ---
 
