@@ -38,8 +38,8 @@ I am a researcher and developer dedicated to **Computer Vision**, **Deep Learnin
 
 ## 🏆 Featured Projects
 
-### 🥭 Mango Leaf Variety & Disease Classification
-A specialized pipeline utilizing **DenseNet121** and **Explainable AI** to identify mango leaf varieties and diseases. This project focuses on high transparency, using heatmaps to justify model decisions.
+### 🥭 Mango Leaf Variety Classification
+A specialized pipeline utilizing **MobileNetV2** and **Explainable AI** to identify mango leaf varieties. This project focuses on high transparency, using heatmaps to justify model decisions.
 
 ### 🐜 Hybrid Ensemble Insect Classification
 A high-accuracy classification system for agricultural pests, leveraging a hybrid ensemble of **EfficientNetB0**, **MobileNetV2**, **Swin-Tiny**, and **DeiT-Tiny**.
