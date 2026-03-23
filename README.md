@@ -46,11 +46,31 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 ---
 
-## 📊 GitHub Statistics
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=radical&rank_icon=github" alt="Habibur's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=radical" alt="Top Langs" height="170px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Sajal's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibursajal&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
