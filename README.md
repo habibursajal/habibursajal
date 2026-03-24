@@ -50,18 +50,6 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibursajal&theme=tokyonight" alt="Sajal's GitHub Summary" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibursajal&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
-</p>
-
-<br/>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -76,6 +64,20 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibursajal&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibursajal&theme=tokyonight" alt="Sajal's GitHub Summary" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibursajal&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
+</p>
+
+<br/>
 
 
 <h3 align="center">🛠 Tech Stack & Tools</h3>
