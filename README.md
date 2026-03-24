@@ -50,29 +50,39 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&no-bg=true&margin-w=15" alt="Sajal's Trophies" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&no-bg=true&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="Sajal's Trophies" />
+</div>
+
+<br/>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&cache_seconds=1800" alt="Sajal's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&show=reviews,discussions,prs,issues" alt="Sajal's GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibursajal&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibursajal&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibursajal&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
+</p>
+
+<h3 align="center">🛠 Tech Stack & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="latex" />
 </p>
 
 ---
