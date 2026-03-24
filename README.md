@@ -56,6 +56,12 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 <br/>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibursajal&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
+</p>
+
+<br/>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -71,9 +77,6 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibursajal&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibursajal&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
-</p>
 
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 <p align="center">
