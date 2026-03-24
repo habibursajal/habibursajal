@@ -104,9 +104,11 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 ---
 
+
 ## 📫 Connect with Me
 * 📧 **Email:** [habibur.sajal@gmail.com](mailto:habibur.sajal@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/habibursajal](https://www.linkedin.com/in/habibursajal)
+
 
 ---
 <p align="center">
