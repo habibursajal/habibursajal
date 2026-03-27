@@ -103,6 +103,11 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
     <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="Sajal's Trophies" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/badges?username=habibursajal&theme=tokyonight&hide_border=true" alt="Sajal's Achievements" />
+</p>
 ---
 
 ---
