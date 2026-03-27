@@ -53,18 +53,14 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibursajal&theme=tokyonight&hide_border=false" alt="Sajal's Streak Stats" height="195" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=habibursajal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&show=reviews,discussions,prs,issues" alt="Sajal's GitHub Stats" height="195" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="195" />
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibursajal&theme=tokyo-night&area=true&hide_border=false" width="100%" alt="Sajal's Activity Graph" />
 </div>
 
 
