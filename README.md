@@ -54,7 +54,7 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
   <table border="0">
     <tr>
       <td align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibursajal&theme=tokyonight" width="49%" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibursajal&theme=tokyonight" height="195" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibursajal&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="195" />
