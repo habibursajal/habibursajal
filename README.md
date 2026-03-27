@@ -44,7 +44,6 @@ A specialized pipeline utilizing **MobileNetV2** and **Explainable AI** to ident
 ### 🐜 Hybrid Ensemble Insect Classification
 A high-accuracy classification system for agricultural pests, leveraging a hybrid ensemble of **EfficientNetB0**, **MobileNetV2**, **Swin-Tiny**, and **DeiT-Tiny**.
 
----
 
 ---
 
@@ -93,7 +92,6 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="latex" />
 </p>
 
----
 
 ---
 
@@ -103,7 +101,6 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
     <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="Sajal's Trophies" />
   </a>
 </p>
----
 
 ---
 
