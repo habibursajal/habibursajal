@@ -99,10 +99,10 @@ A high-accuracy classification system for agricultural pests, leveraging a hybri
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://img.shields.io/github/followers/habibursajal?label=Followers&style=for-the-badge&color=7aa2f7" />
-  <img src="https://img.shields.io/github/stars/habibursajal?label=Stars&style=for-the-badge&color=bb9af7" />
+  <a href="https://github.com/habibursajal">
+    <img src="https://github-profile-trophy.vercel.app/?username=habibursajal&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="Sajal's Trophies" />
+  </a>
 </p>
-
 ---
 
 ---
